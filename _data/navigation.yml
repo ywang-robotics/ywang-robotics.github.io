@@ -1,16 +1,16 @@
 # main links links
 main:
   - title: "Publications"
-    url: /publications/
+    url: https://ywang-robotics.github.io/publications/
 
   - title: "Talks"
-    url: /talks/    
+    url: https://ywang-robotics.github.io/talks/    
 
   - title: "Teaching"
-    url: /teaching/    
+    url: https://ywang-robotics.github.io/teaching/    
     
   - title: "Portfolio"
-    url: /portfolio/
+    url: https://ywang-robotics.github.io/portfolio/
         
   - title: "Blog Posts"
     url: /year-archive/
@@ -18,5 +18,3 @@ main:
   - title: "CV"
     url: https://ywang-robotics.github.io/cv
     
-  - title: "Guide"
-    url: /markdown/
