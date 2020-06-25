@@ -49,4 +49,3 @@ Skills
   * Python
   * try to grab whatever is needed to make my robot more agile
 
-
