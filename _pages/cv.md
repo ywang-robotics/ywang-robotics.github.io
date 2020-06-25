@@ -15,7 +15,7 @@ Education
 * M.S. in System, Control, and Robotics, KTH-Royal Institute of Technology, Stockholm, Sweden, 2010
 * Ph.D in Computer Vision and Robotics, KTH-Royal Institute of Technology, Stockholm, Sweden, 2016
   * Supervisors: Professor [Petter ÖGREN](https://www.kth.se/profile/petter) and Professor [Patric JENSFELT](https://www.kth.se/profile/patric)
-  * Thesis: Reactive Control and Coordination of Redundent Robotic Systems (http://www.diva-portal.org/smash/record.jsf?pid=diva2%3A905537&dswid=5884)
+  * Thesis: [Reactive Control and Coordination of Redundent Robotic Systems](http://www.diva-portal.org/smash/record.jsf?pid=diva2%3A905537&dswid=5884)
 
 Work experience
 ======
@@ -47,6 +47,6 @@ Skills
 * Programming Skills
   * C++
   * Python
-  * try to grab whatever is needed to make my robot agile
+  * try to grab whatever is needed to make my robot more agile
 
 
