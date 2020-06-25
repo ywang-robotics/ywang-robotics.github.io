@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Yuquan Wang"
-  avatar           : "images/profile.png"
+  avatar           : "profile.png"
   bio              : "Post-doc researcher, Ph.D in robotics"
   location         : "Montpellier"
   employer         :
