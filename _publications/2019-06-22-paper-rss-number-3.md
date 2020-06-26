@@ -1,7 +1,7 @@
 ---
 title: "Impact-Friendly Robust Control Design with Task-Space Quadratic Optimization"
 collection: publications
-permalink: /publication/2019-06-22-paper-rss-number-1
+permalink: /publication/2019-06-22-paper-rss-number-3
 excerpt: 'We introduce the impact-awareness to the QP controller by including the gradient of impact-induced state jumps with respect to the QP decision variables.'
 date: 2019-06-22
 venue: 'Robotics: Science and Systems XV'
@@ -16,14 +16,14 @@ We propose the initial idea of impact-awareness and how to generate controlled i
 Recommended citation:
 ```bib
 
-@INPROCEEDINGS{wangrss2019, 
-    AUTHOR    = {Yuquan Wang AND Abderrahmane Kheddar}, 
-    TITLE     = {Impact-Friendly Robust Control Design with Task-Space Quadratic Optimization}, 
-    BOOKTITLE = {Proceedings of Robotics: Science and Systems}, 
-    YEAR      = {2019}, 
-    ADDRESS   = {FreiburgimBreisgau, Germany}, 
-    MONTH     = {June}, 
-    DOI       = {10.15607/RSS.2019.XV.032} 
+@inproceedings{wangrss2019, 
+    author    = {Yuquan Wang AND Abderrahmane Kheddar}, 
+    title     = {Impact-Friendly Robust Control Design with Task-Space Quadratic Optimization}, 
+    booktitle = {Proceedings of Robotics: Science and Systems}, 
+    year      = {2019}, 
+    address   = {FreiburgimBreisgau, Germany}, 
+    month     = {June}, 
+    doi       = {10.15607/RSS.2019.XV.032} 
 } 
 ```
 
