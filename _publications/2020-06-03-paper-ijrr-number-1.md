@@ -6,7 +6,7 @@ excerpt: 'We summarize the impact-aware constraints formulation of the model-bas
 date: 2020-06-03
 venue: 'Submitted to IJRR'
 paperurl: 'https://arxiv.org/abs/2006.01987'
-citation: ' Wang, Y., Dehio, N., Tanguy, A., & Kheddar, A. (2020). &quot;Impact-Aware Task-Space Quadratic-Programming Control.  Number 1.&quot; <i> arXiv preprint arXiv:2006.01987 </i>. 1(3).'
+citation: ' Wang, Y., Dehio, N., Tanguy, A., & Kheddar, A. (2020). &quot;Impact-Aware Task-Space Quadratic-Programming Control. &quot; <i> arXiv preprint arXiv:2006.01987 </i>.'
 ---
 
 We propose the generic impact-aware constraints formulation for both the fixed-base robot and the floating-base robot.  We achieved much higher contact velocity than the state-of-the-art.

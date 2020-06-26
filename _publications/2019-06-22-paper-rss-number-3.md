@@ -6,7 +6,7 @@ excerpt: 'We introduce the impact-awareness to the QP controller by including th
 date: 2019-06-22
 venue: 'Robotics: Science and Systems XV'
 paperurl: 'http://www.roboticsproceedings.org/rss15/p32.html'
-citation: 'Yuquan Wang AND Abderrahmane Kheddar. (2019). &quot;Impact-Friendly Robust Control Design with Task-Space Quadratic Optimization Number 1.&quot; <i>Robotics: Science and Systems XV</i>. 1(3).'
+citation: 'Yuquan Wang AND Abderrahmane Kheddar. (2019). &quot;Impact-Friendly Robust Control Design with Task-Space Quadratic Optimization. &quot; <i>Robotics: Science and Systems XV</i>. '
 ---
 We propose the initial idea of impact-awareness and how to generate controlled impacts for a fixed base robot.
 

@@ -6,7 +6,7 @@ excerpt: 'We present our initial efforts to apply impact-aware constraints for a
 date: 2019-10-15
 venue: 'IEEE-RAS International Conference on  Humanoid Robots'
 paperurl: 'https://arxiv.org/abs/2001.08454'
-citation: 'Wang, Yuquan and Tanguy, Arnaud and Gergondet,  Pierre and Kheddar,  Abderrahmane. (2019). &quot;Impact-aware humanoid robot motion generation with a quadratic optimization controller Number 2.&quot; <i> IEEE-RAS International Conference on Humanoid Robots</i>. 1(3).'
+citation: 'Wang, Yuquan and Tanguy, Arnaud and Gergondet,  Pierre and Kheddar,  Abderrahmane. (2019). &quot;Impact-aware humanoid robot motion generation with a quadratic optimization controller. &quot; <i> IEEE-RAS International Conference on Humanoid Robots</i>.'
 ---
 We extend the our RSS paper to the full-size humanoid robot HRP4.
 
