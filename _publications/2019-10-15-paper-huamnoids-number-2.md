@@ -16,14 +16,9 @@ We extend the our RSS paper to the full-size humanoid robot HRP4.
 Recommended citation:
 ```bib
 @inproceedings{wang2019humanoids,
-  title={
-	   Impact-aware multi-contact motion generation with a quadratic optimization controller
-},
-  author={
-	  Wang, Yuquan and Tanguy, Arnaud and Gergondet,  Pierre and Kheddar,  Abderrahmane
-  },
+  title={Impact-aware multi-contact motion generation with a quadratic optimization controller},
+  author={Wang, Yuquan and Tanguy, Arnaud and Gergondet,  Pierre and Kheddar,  Abderrahmane},
   Address = {Toronto, Canada},
-
   year={2019},
   Booktitle = { IEEE-RAS International Conference on Humanoid Robots},
   Month = {15-17 October},
