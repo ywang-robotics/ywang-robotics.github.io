@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Publications"
+title: "Selected Publications in Quadratic-Programming Control"
 permalink: /publications/
 author_profile: true
 ---
