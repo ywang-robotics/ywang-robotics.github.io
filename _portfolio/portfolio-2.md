@@ -12,5 +12,5 @@ The optimization formulation provides a modular approach to specify objectives a
 *  Task-space specifications, e.g., admittance control, can be easiliy integrated into the QP, either as a part of the objective or as a constraint.
 *  QP can simultaneously fulfill multiple objectives by scalarize a weighting sum.
 
-
+[![Pan-cleaning task by the Schunk arms](/images/dumbo_cover_image.png)](https://www.youtube.com/watch?v=M1j4e8Zncw8)
 
