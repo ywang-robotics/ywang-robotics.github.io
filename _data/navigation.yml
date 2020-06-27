@@ -3,18 +3,16 @@ main:
   - title: "Publications"
     url: https://ywang-robotics.github.io/publications/
 
-  - title: "Talks"
-    url: https://ywang-robotics.github.io/talks/    
-
-  - title: "Teaching"
-    url: https://ywang-robotics.github.io/teaching/    
-    
   - title: "Portfolio"
     url: https://ywang-robotics.github.io/portfolio/
-        
+ 
+  - title: "Talks"
+    url: https://ywang-robotics.github.io/talks/    
   - title: "Blog Posts"
     url: /year-archive/
-    
   - title: "CV"
     url: https://ywang-robotics.github.io/cv
+  - title: "Teaching"
+    url: https://ywang-robotics.github.io/teaching/    
+
     
