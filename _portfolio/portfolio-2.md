@@ -1,6 +1,6 @@
 ---
 title: "A Quadratic-Programming Approach to Dual-arm Mobile Manipulation"
-excerpt: "Short description of portfolio item number 2 <br/><img src='/images/pr2-museum.png'>"
+excerpt: "We provide the optimization-based robot control approach that  enables a modular description of robotic tasks and a reactive solution in real-time. <br/><img src='/images/pr2-museum.png'>"
 collection: portfolio
 ---
 
