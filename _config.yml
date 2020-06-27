@@ -84,7 +84,7 @@ author:
   avatar           : "profile.png"
   bio              : "Post-doc researcher, Ph.D in robotics"
   location         : "Montpellier"
-  employer         :
+  employer         : "CNRS-UM, LIRMM"
   pubmed           :  
   googlescholar    : "https://scholar.google.com/citations?user=nBBIjjEAAAAJ&hl=en&oi=ao"
   email            : y.wang.robotics@gmail.com
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : #"replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
