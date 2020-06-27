@@ -1,5 +1,5 @@
 ---
-title: "Impact-aware optimization-based control"
+title: "Impact-Aware Task-Space Quadratic-Programming Control"
 excerpt: "We enable swift robot motion without fearing impacts with the environment. For instance in a box manipulation task, the robot does not need to stop or use close-to-zero velocity to establish contacts <br/><img src='/images/box-grabbing-crop.png'>"
 collection: portfolio
 ---
